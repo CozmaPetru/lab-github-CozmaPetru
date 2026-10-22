@@ -1,2 +1,3 @@
-# lab-github-CozmaPetru
-un repozitoriu pentru a practica disciplina
+# Laboratorul meu GitHub
+
+Acesta este un **text îngroșat**.
